@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Registrasi Bumdesa Darussalam</title>
+  <title>Registrasi Sumber Tani</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -34,7 +34,7 @@
 
               <div class="d-flex justify-content-center py-4">
                 <a href=".." class="logo d-flex align-items-center w-auto">
-                  <span class="d-none d-lg-block">Bumdesa Darussalam</span>
+                  <span class="d-none d-lg-block">Sumber Tani</span>
                 </a>
               </div><!-- End Logo -->
 

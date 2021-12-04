@@ -19,7 +19,7 @@
             <h2 class="ftco-heading-2">Kunjungi Kami</h2>
             <div class="block-23 mb-3">
               <ul>
-                <li><span class="icon icon-map-marker"></span><span class="text">203 Jl. Pattimura, Kelawang, Mataram, Indonesia</span></li>
+                <li><span class="icon icon-map-marker"></span><span class="text">203 Jl. Pattimura, Kelawang, Situbondo, Indonesia</span></li>
                 <li><a href="https://wa.me/6283832581088"><span class="icon icon-phone"></span><span class="text">+62 8383 2581 088</span></a></li>
                 <li><a href="mailto:naji.aka58@gmail.com"><span class="icon icon-envelope"></span><span class="text">naji.aka58@gmail.com</span></a></li>
               </ul>

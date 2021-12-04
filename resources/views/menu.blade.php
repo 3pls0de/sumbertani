@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Bumdesa Darussalam</title>
+    <title>Daftar Menu | Sumber Tani</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -14,7 +14,7 @@
 
     <section class="home-slider owl-carousel">
 
-      <div class="slider-item" style="background-image: url(https://images.unsplash.com/photo-1515694590185-73647ba02c10?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80);" data-stellar-background-ratio="0.5">
+      <div class="slider-item" style="background-image: url(https://cdn.pixabay.com/photo/2017/01/27/14/11/onion-2013174_960_720.jpg);" data-stellar-background-ratio="0.5">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row slider-text justify-content-center align-items-center">
@@ -35,7 +35,7 @@
     	<div class="container">
 
     		<div class="mx-auto d-block text-center">
-    		<h2>DAFTAR MENU KOPI RIMBA RINJANI</h2>
+    		<h2>DAFTAR PRODUK SUMBER TANI</h2>
     		<br><br>
     		</div>
 

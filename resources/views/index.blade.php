@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Bumdesa Darussalam</title>
+    <title>Sumber Tani</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -21,15 +21,15 @@
   	@include('komponen.header')
 
     <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image: url(https://images.unsplash.com/photo-1515694590185-73647ba02c10?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80);">
+      <div class="slider-item" style="background-image: url(https://cdn.pixabay.com/photo/2017/01/27/14/11/onion-2013174_960_720.jpg);">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
             <div class="col-md-8 col-sm-12 text-center ftco-animate">
             	<span class="subheading">Selamat Datang</span>
-              <h1 class="mb-4">Bumdesa Darussalam</h1>
-              <p class="mb-4 mb-md-5">Kopi seputaran perkebunan dan hutan Lombok Utara.</p>
+              <h1 class="mb-4">Sumber Tani</h1>
+              <p class="mb-4 mb-md-5">Menjual Bawang Berkualitas</p>
             </div>
 
           </div>
@@ -43,23 +43,23 @@
 
             <div class="col-md-8 col-sm-12 text-center ftco-animate">
             	<span class="subheading">Selamat Datang</span>
-              <h1 class="mb-4">Bumdesa Darussalam</h1>
-              <p class="mb-4 mb-md-5">Kopi seputaran perkebunan dan hutan Lombok Utara.</p>
+              <h1 class="mb-4">Sumber Tani</h1>
+              <p class="mb-4 mb-md-5">Menjual Bawang Berkualitas</p>
             </div>
 
           </div>
         </div>
       </div>
 
-      <div class="slider-item" style="background-image: url(https://image.freepik.com/free-photo/flat-lay-tray-with-coffee-cup-cinnamon-sticks_23-2148808586.jpg);">
+      <div class="slider-item" style="background-image: url(https://cdn.pixabay.com/photo/2017/01/27/14/11/onion-2013174_960_720.jpg);">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
             <div class="col-md-8 col-sm-12 text-center ftco-animate">
             	<span class="subheading">Selamat Datang</span>
-              <h1 class="mb-4">Bumdesa Darussalam</h1>
-              <p class="mb-4 mb-md-5">Kopi seputaran perkebunan dan hutan Lombok Utara.</p>
+              <h1 class="mb-4">Sumber Tani</h1>
+              <p class="mb-4 mb-md-5">Menjual Bawang Berkualitas</p>
             </div>
 
           </div>
@@ -71,7 +71,7 @@
 
     <section class="ftco-about d-md-flex" id="about">
 
-    	<div class="one-half img" style="background-image: url(https://images.unsplash.com/photo-1561113825-49e39f7e1f8f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80);">
+    	<div class="one-half img" style="background-image: url(https://cdn.pixabay.com/photo/2013/12/13/23/22/winter-onion-228039_960_720.jpg);">
     		
     	</div>
 

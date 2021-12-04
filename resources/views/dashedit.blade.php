@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Dashboard Bumdesa Darussalam</title>
+  <title>DashEdit | Sumber Tani</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -123,7 +123,7 @@
 
                 @if(!is_null($dedit->foto_produk) && !empty($dedit->foto_produk))
                   <div class="form-group mb-2">
-                    <img src="{{ asset('/storage/app/public/' . $dedit->foto_produk) }}" class="preview">
+                    <img src="storage/{{ $dedit->foto_produk }}" class="preview">
                   </div>
                 @endif
                 <div class="col-12">

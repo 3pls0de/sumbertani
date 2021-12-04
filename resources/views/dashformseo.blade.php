@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Dashboard Bumdesa Darussalam</title>
+  <title>DashFormSEO | Sumber Tani</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -34,7 +34,7 @@
   <main id="main" class="main">
 
     <div class="pagetitle">
-      <h1>Tambah Produk</h1>
+      <h1>EDIT SEO</h1>
       <nav>
         <ol class="breadcrumb">
           <li class="breadcrumb-item"><a href="#">Home</a></li>
@@ -56,7 +56,7 @@
           
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">Floating labels Form</h5>
+              <h5 class="card-title">SEO untuk WEB</h5>
               <p>Pisahkan dengan tanda koma (,) jika ada lebih dari satu (Author / Kata Kunci / Deskripsi) </p>
 
               <!-- Floating Labels Form -->
